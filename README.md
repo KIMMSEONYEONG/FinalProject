@@ -1,6 +1,6 @@
 <div align="center">
-<h2>[2024] DDIT_21기 4조 최종프로젝트</h2>
-SaaS형 통합 그룹웨어 플랫폼이며 사용자 친화적 인터페이스와 조직 내 협업과 소통 극대화가 되는 SaaS형 통합 그룹웨어 플랫폼, GrouBear입니다!<br>
+<h2>[2024] DDIT_21기 2조 최종프로젝트</h2>
+공항 직원과 협력업체를 위한 편리한 관리 시스템과 고객 맞춤형 서비스를 제공하는 공항 관리 시스템, WhalePort입니다!<br>
  
 
 </div>
@@ -13,7 +13,7 @@ SaaS형 통합 그룹웨어 플랫폼이며 사용자 친화적 인터페이스�
 ## 개요
 <div align="center">
 <h4>프로젝트명</h4>
-GrouBear
+WhalePort
 </div>
 <div align="center">
 <h4>프로젝트 기간</h4>
@@ -39,12 +39,13 @@ GrouBear
 <table>
   <tbody>
     <tr>
-      <td align="center"><b> 권기혁 </b><br />PL</td>
-      <td align="center"><b> 강성연 </b><br />AA</td>
-      <td align="center"><b> 김연희 </b><br />TA</td>
-      <td align="center"><b> 윤다빈 </b><br />QA</td>
-      <td align="center"><b> 이은재 </b><br />DA</td>
-      <td align="center"><b> 이현수 </b><br />BA</td>
+      <td align="center"><b> 김수연 </b><br />PL</td>
+      <td align="center"><b> 최동재 </b><br />AA</td>
+      <td align="center"><b> 박병준 </b><br />TA</td>
+      <td align="center"><b> 김선영 </b><br />DA</td>
+      <td align="center"><b> 임효정 </b><br />DA</td>
+      <td align="center"><b> 김예지 </b><br />UA</td>
+      <td align="center"><b> 황현준 </b><br />BA</td>
     </tr>
   </tbody>
 </table>
@@ -56,7 +57,7 @@ GrouBear
 |:---:|:---:|
 |로그인 화면|메인 페이지|
 
- 우리 팀의 프로젝트는 SaaS형 통합 그룹웨어 플랫폼 개발이며, 사용자 친화적 인터페이스와 조직 내 협업과 소통 극대화가 목표인 프로젝트입니다. <br>
+ 우리 팀의 프로젝트는 통합 공항 관리 시스템이며, 사용자 친화적인 인터페이스를 통해 조직 내 협업과 소통을 극대화하며, 고객 맞춤형 서비스를 제공이 목표인 프로젝트입니다. <br>
   - 메뉴얼 없이는 사용하기 복잡한 사용자 인터페이스<br>
   - 한 눈에 보기 어려운 정보의 분산 관리 문제를 해결하고자 해당 프로젝트를 설계<br>
  이를 통해 팀원들이 쉽게 적응하고 활발히 소통할 수 있는 환경을 조성하는 것을 목표로 합니다. <br>
