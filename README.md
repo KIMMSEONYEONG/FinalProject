@@ -49,8 +49,6 @@ WhalePort
 </table>
 </div>
 
-<img width="525" height="295" alt="로그인화면" src="https://github.com/user-attachments/assets/3668952c-19f8-4c88-9844-edd65732544c">|
-
 ## 프로젝트 설명
  우리 팀의 프로젝트는 통합 공항 관리 시스템이며, 사용자 친화적인 인터페이스를 통해 조직 내 협업과 소통을 극대화하며, 고객 맞춤형 서비스를 제공이 목표인 프로젝트입니다. <br>
   - 실시간 데이터 처리 시스템<br>
