@@ -8,7 +8,6 @@
 ## 목차
   - [개요](#개요) 
   - [프로젝트 설명](#프로젝트-설명)
-  - [기능 설명](#주요-기능-설명)
 
 ## 개요
 <div align="center">
@@ -64,14 +63,4 @@ WhalePort
  이를 통해 사용자에게는 친화적인 인터페이스를 제공하고, 공항 직원과 협력업체는 여러 기능을 통합적으로 관리할 수 있는 환경을 조성하는 것을 목표로 합니다. <br>
  주요 기능으로는 직원 관리, 예약 관리, 항공 스케줄 관리, 협력업체 관리, 물류창고 관리, 점검 관리, 스케줄 관리, 보고서 관리, 항공편 예약, 시설 예약, 실시간 조회, 최단거리 동선 등이 포함됩니다. <br>
 
-## 주요 기능 설명
-- 주요 기능
-
-|부서별 기능|시설 등록|양식 불러오기|양식 수정|
-|---|---|---|---|
-|![부서별기능](https://github.com/user-attachments/assets/7e19766a-52be-4c5a-82a5-c0f13193c6ee)|![시설등록](https://github.com/user-attachments/assets/e5327c68-e5c2-44d0-8765-1b62b29141df)|![양식관리1](https://github.com/user-attachments/assets/f7e1a445-319b-4d8c-a46f-b799e672f43f)|![양식관리2](https://github.com/user-attachments/assets/49915d13-9b67-46b7-9398-2aeebe53f47c)
-
-|전자결재|차량등록|클라우드|프로젝트|
-|---|---|---|---|
-|![전자결재](https://github.com/user-attachments/assets/2736f74d-ce77-4319-ac3c-1a1aed98242a)|![차량등록](https://github.com/user-attachments/assets/05ffcb31-2b07-44b1-b669-95f283041213)|![클라우드](https://github.com/user-attachments/assets/0c9d7302-8fd4-4539-aa51-60ec609c98a4)|![프로젝트](https://github.com/user-attachments/assets/3edc6c4d-20ff-4a4d-b9f5-c683e912dd05)
 
