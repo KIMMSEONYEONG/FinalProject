@@ -1,4 +1,3 @@
-<img width="226" alt="image" src="https://github.com/user-attachments/assets/8baf3357-0756-4721-a686-1f4c8e7479d7" /><div align="center">
 <h2>[2024] DDIT_21기 2조 최종프로젝트</h2>
 공항 직원과 협력업체를 위한 편리한 관리 시스템과 고객 맞춤형 서비스를 제공하는 공항 관리 시스템, WhalePort입니다!<br>
  
