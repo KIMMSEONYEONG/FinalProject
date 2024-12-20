@@ -1,7 +1,6 @@
 <h2>[2024] DDIT_21기 2조 최종프로젝트</h2>
-공항 직원과 협력업체를 위한 편리한 관리 시스템과 고객 맞춤형 서비스를 제공하는 공항 관리 시스템, WhalePort입니다!<br>
+공항직원과 협력업체를 위한 편리한 관리 시스템과 고객 맞춤형 서비스를 제공하는 공항 관리 시스템, WhalePort입니다!<br>
  
-
 </div>
 
 ## 목차
@@ -30,7 +29,6 @@ WhalePort
 <img src="https://img.shields.io/badge/openjdk-5586A4?style=for-the-badge&logo=Java&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/jsp-1572B6?style=for-the-badge&logo=JSP&logoColor=white">&nbsp
 
-
 </div>
 <div align="center">
 <h4>팀원</h4>
@@ -52,7 +50,7 @@ WhalePort
 ## 프로젝트 설명
  우리 팀의 프로젝트는 통합 공항 관리 시스템이며, 사용자 친화적인 인터페이스를 통해 조직 내 협업과 소통을 극대화하며, 고객 맞춤형 서비스를 제공이 목표인 프로젝트입니다. <br>
   - 실시간 데이터 처리 시스템<br>
-  - 통합 관리 및 사용자 인터페이스<br><br>
+  - 통합 관리 및 사용자 인터페이스<br>
   
  이를 통해 사용자에게는 친화적인 인터페이스를 제공하고, 공항 직원과 협력업체는 여러 기능을 통합적으로 관리할 수 있는 환경을 조성하는 것을 목표로 합니다. <br><br>
  
