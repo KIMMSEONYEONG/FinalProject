@@ -50,6 +50,7 @@ WhalePort
   </tbody>
 </table>
 </div>
+![화면 캡처 2024-12-20 162936](https://github.com/user-attachments/assets/3668952c-19f8-4c88-9844-edd65732544c)
 
 
 ## 프로젝트 설명
