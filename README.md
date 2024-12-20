@@ -1,4 +1,4 @@
-<div align="center">
+<img width="226" alt="image" src="https://github.com/user-attachments/assets/8baf3357-0756-4721-a686-1f4c8e7479d7" /><div align="center">
 <h2>[2024] DDIT_21기 2조 최종프로젝트</h2>
 공항 직원과 협력업체를 위한 편리한 관리 시스템과 고객 맞춤형 서비스를 제공하는 공항 관리 시스템, WhalePort입니다!<br>
  
@@ -52,6 +52,7 @@ WhalePort
 </div>
 ![화면 캡처 2024-12-20 162936](https://github.com/user-attachments/assets/3668952c-19f8-4c88-9844-edd65732544c)
 
+<img width="525" height="295" alt="로그인화면" src="https://github.com/user-attachments/assets/3668952c-19f8-4c88-9844-edd65732544c">|
 
 ## 프로젝트 설명
 |<img width="525" height="295" alt="로그인화면" src="https://github.com/user-attachments/assets/96b1d5d4-6234-41f0-a604-886395ce30b2">|<img width="525" height="295" alt="로그인화면" src="https://github.com/user-attachments/assets/20b4aa14-5949-4906-a681-88b80cef2ea5">|
